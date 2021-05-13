@@ -1,5 +1,5 @@
-#
+#ATM_Project_by_Control_statements.py
 CheckOut an atm fully typed along with controll statements
 
 # flag-by-python
-Here's find an output of an indian flag by python code
+Here's find an output of the indian flag by python turtle code
